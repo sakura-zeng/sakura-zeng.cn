@@ -1,31 +1,28 @@
-<body>
-  <h1><i>the first one</i></h1>
-  <div class="hai"><u>这都不是月薪1800的我该考虑的事儿</u></div>
-  <div>我是嫩爹</div>
-  [Uploading index<!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>202105382013的主页</title>
-    <style>
-        a{
-            font-size: 20px;
-        }
-        a:link{
-            color: #000;
-        }
-        a:visited{
-            color: #b3b3b3;
-        }
-        a:hover{
-            color: #f00;
-            font-size: 30px;
-        }
-        a:active{
-            color: purple;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>202105382013的主页</title>
+  
+  a{
+    font-size: 20px;
+  }
+  
+  a:link{
+    color: #000;
+  }
+  
+  a:visited{
+    color: #b3b3b3;
+  }
+  
+  a:hover{
+    color: #f00;
+    font-size: 30px;
+  }
+  
+  a:active{
+    color: purple;
+  }
 </head>
 <body>
     <a href="http://baidu.com" target="_blank" title="大数据" rel="noopener noreferrer">百度</a>
@@ -44,6 +41,9 @@
     <a href="./小说/home.html" target="_blank" rel="noopener noreferrer">前端作业</a>
     <a href="./小说/newhome.html" target="_blank" rel="noopener noreferrer">new</a>
 </body>
-</html>.html…]()
 
+<body>
+  <h1><i>the first one</i></h1>
+  <div class="hai"><u>这都不是月薪1800的我该考虑的事儿</u></div>
+  <div>我是嫩爹</div>
 </body>
