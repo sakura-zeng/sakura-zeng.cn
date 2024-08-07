@@ -24,8 +24,8 @@
       color: purple;
     }
 
-    background{
-      rgb(217, 234, 224);
+    body{
+      background-color:rgb(217, 234, 224);
     }
   </style>
 </head>
