@@ -23,6 +23,10 @@
     a:active{
       color: purple;
     }
+
+    body{
+      rgb(217, 234, 224);
+    }
   </style>
 </head>
 <body>
