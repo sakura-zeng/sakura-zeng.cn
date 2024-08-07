@@ -32,15 +32,6 @@
     <a href="tel:+86 13593727592 ">电话</a>
     <a href="http://101.35.222.6:8087/stuMain/index" target="_blank">学生端主页-旧</a>
     <a href="http://192.168.7.121/" target="_blank">学生端主页-新</a>
-    <a href="./demo1.html" target="_blank" rel="noopener noreferrer">第一次课</a>
-    <a href="./demo2.html" target="_blank" rel="noopener noreferrer">第二次课</a>
-    <a href="./demo3.html" target="_blank" rel="noopener noreferrer">第三次课</a>
-    <a href="./demo4.html" target="_blank" rel="noopener noreferrer">第四次课</a>
-    <a href="./demo5.html" target="_blank" rel="noopener noreferrer">第五次课</a>
-    <a href="./demo6.html" target="_blank" rel="noopener noreferrer">第六次课</a>
-    <a href="./jsdemo.html">jsdemo1</a>
-    <a href="./小说/home.html" target="_blank" rel="noopener noreferrer">前端作业</a>
-    <a href="./小说/newhome.html" target="_blank" rel="noopener noreferrer">new</a>
 </body>
 
 <body>
