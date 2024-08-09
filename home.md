@@ -35,5 +35,6 @@
     <a href="http://192.168.7.121/" target="_blank">学生端主页-新</a>
   <h1><i>the first one</i></h1>
   <div class="hai"><u>这都不是年薪7.2k的我该考虑的事儿</u></div>
+  <a>这里是新的.md页面</a>
 </body>
 
