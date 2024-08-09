@@ -30,7 +30,7 @@
   </style>
 </head>
 <body>
-  <a href=./home.html  target="_blank">主页</a>
+  <a href=home.html  target="_blank">主页</a>
     <a href="http://baidu.com" target="_blank" title="大数据" rel="noopener noreferrer">百度</a>
     <a href="https://www.hbmu.edu.cn/" target="_blank">湖北医药学院</a>
     <a href="mailto:2258636996@qq.com">邮箱</a>
