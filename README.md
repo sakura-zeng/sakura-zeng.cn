@@ -26,7 +26,6 @@
 
     body{
       background-color:rgb(217, 234, 224);
-      background:"小绿.jpg";
     }
   </style>
 </head>
