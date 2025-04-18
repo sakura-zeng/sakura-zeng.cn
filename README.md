@@ -42,5 +42,7 @@
 <body>
   <h1><i>the first one</i></h1>
   <div class="hai"><u>这都不是年薪7.2k的我该考虑的事儿</u></div>
-  <div>初始页</div>
+  <div>
+    <a href="./download/WinRAR 7.11 中文（简体） 64 bit download="WinRAR 7.11 中文（简体） 64 bit">WinRAR 7.11 中文（简体） 64 bit</a>
+  </div>
 </body>
