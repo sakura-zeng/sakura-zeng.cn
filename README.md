@@ -44,6 +44,6 @@
   <h1><i>the first one</i></h1>
   <div class="hai"><u>这都不是年薪7.2k的我该考虑的事儿</u></div>
   <div>
-    <a href="[./download/winrar-x64-711sc.exe](https://github.com/sakura-zeng/sakura-zeng.cn/blob/30bdebd8c3546d2c20ad9a049cbf8117bb51ac6a/winrar-x64-711sc.exe)" download="WinRAR 7.11中文（简体）64bit">WinRAR 7.11中文（简体）64bit</a>
+    <a href="https://github.com/sakura-zeng/sakura-zeng.cn/blob/30bdebd8c3546d2c20ad9a049cbf8117bb51ac6a/WinRAR%207.11%20%E4%B8%AD%E6%96%87%EF%BC%88%E7%AE%80%E4%BD%93%EF%BC%89%2064%20bit/winrar-x64-711sc.exe" download="WinRAR 7.11中文（简体）64bit">WinRAR 7.11中文（简体）64bit</a>
   </div>
 </body>
